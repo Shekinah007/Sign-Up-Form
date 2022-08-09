@@ -45,7 +45,7 @@ body {
 
 .splash-image-container {
     width: 35vw;
-    background-color: aqua;
+    background-color: black;
     margin: 0;
     background-image: url("/assets/halie-west-unsplash.jpg");
     background-repeat: no-repeat;
@@ -53,8 +53,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* place-items: center; */
-
     color: white;
     font-size: 11px;
   
